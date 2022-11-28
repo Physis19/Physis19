@@ -8,8 +8,8 @@ A vida sem ciência é uma espécie de morte. - Socrátes
 
 <div align="center">
   <a href="https://github.com/Physis19">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Physis19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Physis19&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=Physis19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Physis19&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
