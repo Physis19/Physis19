@@ -1,6 +1,5 @@
 ## Bem-vindo!
 
-🧑‍💻 Desenvolvedor Python  
 📚 Ciência da Computação  
 
 A vida sem ciência é uma espécie de morte. - Socrátes
