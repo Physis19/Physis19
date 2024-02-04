@@ -28,5 +28,5 @@ The future is Open-Source!
   <img height=200 align="center" src="https://github-readme-stats-seven-lime-72.vercel.app/api?username=Physis19&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-seven-lime-72.vercel.app/api/top-langs?username=Physis19&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide=jupyter%20notebook&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-lime-72.vercel.app/api/top-langs?username=Physis19&count_private=true&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide=jupyter%20notebook" />
 </a>
